@@ -9,4 +9,5 @@ public class Calc{
 	public void dec(int d){	//
 		r -= d;
 	}
+	
 }
